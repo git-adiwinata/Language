@@ -1,5 +1,5 @@
 {
-    "name": "Akunting/language",
+    "name": "akunting/language",
     "description": "Language switcher package for Laravel.",
     "keywords": ["laravel", "language", "switcher"],
     "license": "MIT",
